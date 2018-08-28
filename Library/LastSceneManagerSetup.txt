@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/AlphaChannel/AlphaChannel.unity
-  isLoaded: 1
-  isActive: 1
