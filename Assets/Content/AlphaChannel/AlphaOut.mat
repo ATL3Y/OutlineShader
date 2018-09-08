@@ -4,10 +4,10 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: AlphaOut
-  m_Shader: {fileID: 4800000, guid: ec346ca8db59a7c4e83e62bea42cf6e3, type: 3}
+  m_Shader: {fileID: 4800000, guid: 642694fd0e0882f4f94a524fee7d29f9, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
